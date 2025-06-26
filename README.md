@@ -12,6 +12,6 @@ This repository contains demo test automation scripts built with Robot for the f
 **Setup**
 - automation is work in progress
 
-[1]:https://www.geeksforgeeks.org/python/download-and-install-python-3-latest-version/
-[2]:https://www.geeksforgeeks.org/python/download-and-install-python-3-latest-version/
-[3]:https://www.geeksforgeeks.org/python/download-and-install-python-3-latest-version/
+[1]:https://www.geeksforgeeks.org/python/download-and-install-python-3-latest-version/#install-python-on-windows-10
+[2]:https://www.geeksforgeeks.org/python/download-and-install-python-3-latest-version/#install-python-on-linux
+[3]:https://www.geeksforgeeks.org/python/download-and-install-python-3-latest-version/#install-python-on-macos
