@@ -1,4 +1,4 @@
-# Robot-Automation-Demo
+# Robot-Requests-Automation-Demo
 ## ❓What is this Repository about?
 This repository contains demo test automation scripts built with Robot for the following websites
   - http://saucedemo.com
